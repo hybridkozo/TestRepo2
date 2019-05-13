@@ -1,3 +1,5 @@
 This is my 1st commit
 
 This is from the second commit
+
+THis is the commit from origin new branch
