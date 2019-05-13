@@ -5,3 +5,7 @@ This is from the second commit
 This is from the  Commit 3
 
 This is from the Commit 4
+
+THis is the commit from origin new branch
+
+This is the commit 3 from origin new branch
